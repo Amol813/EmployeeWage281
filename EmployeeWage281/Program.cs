@@ -18,8 +18,6 @@
                 Console.WriteLine("Employee is Present");
             }
             else 
-
-
             if (PART_TIME == randomInput)
             {
                 empHrs = 4;
